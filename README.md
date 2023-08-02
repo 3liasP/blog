@@ -16,4 +16,4 @@ I've also taken advantage of Ruby and it's Gem [Bundler](https://github.com/ruby
 
 ## Usage
 - To create a blog like this, see [GitHub Pages tutorial](https://github.com/skills/github-pages).
-- To visit the blog, simply follow the link on the right sidebar, or [click here](https://3liasp.github.io/personal-page/)
+- To visit the blog, simply follow the link on the right sidebar, or [click here](https://3liasp.github.io/blog/)

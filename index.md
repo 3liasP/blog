@@ -1,7 +1,7 @@
 ---
 title: "Bytes and Beyond"
 ---
-![Dustin on laptop!](/personal-page/docs/assets/img/dustin-on-computer.png "Dustin on laptop!")
+![Dustin on laptop!](/blog/docs/assets/img/dustin-on-computer.png "Dustin on laptop!")
 
 Welcome to my blog! I am a dedicated student currently studying Information Technology for my bachelor's degree at the University of Turku. As a student and future programmer, I think my best qualities are a strong work ethic, self-motivation, and a passion for learning.
 
